@@ -1,4 +1,4 @@
-# Repositorio-Currculo
+# Repositorio-Curriculo
 # 👋 Olá, eu sou Lilian da Silva Bravo  
 
 🎯 **Especialista em Business Intelligence, Data Analytics e Visualização de Dados**  
