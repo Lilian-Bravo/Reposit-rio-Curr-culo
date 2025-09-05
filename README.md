@@ -26,7 +26,9 @@
 ---
 
 ## 🌐 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/lilian-da-silva-bravo-20458a4a/)  
+<div> 
+  <a href="[https://www.linkedin.com/in/lilian-da-silva-bravo-20458a4a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 - 📧 lilian.bravo27@hotmail.com | liliandasilvabravo@gmail.com
 
 <div style="display: inline_block"><br>
@@ -41,8 +43,4 @@
   
   ##
  
-<div> 
- 
-  <a href="[https://www.linkedin.com/in/lilian-da-silva-bravo-20458a4a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
