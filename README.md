@@ -1,5 +1,13 @@
 # Repositorio-Curriculo
+
 # 👋 Olá, eu sou Lilian da Silva Bravo  
+
+<div>
+<a href="https://github.com/Lilian-Bravo">
+  <img height="180cm"src="https://github-readme-stats.vercel.app/api?username=Lilian-Bravo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilian-Bravo&layout=compact&langs_cout=16&theme=dracula"/>
+</div>
+
 
 🎯 **Especialista em Business Intelligence, Data Analytics e Visualização de Dados**  
 💡 Mais de 23 anos de experiência em TI, Telecom, Financeiro, Serviços, Logística e Construção Civil.  
