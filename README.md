@@ -18,7 +18,7 @@
 
 ## 📂 Meus Repositórios
 - [📑 Currículo](https://github.com/Lilian-Bravo/Reposit-rio-Curr-culo/blob/main/TI_CV_Lilian_Bravo.pdf)
-- [📊 Data Visualization](https://github.com/Lilian-Bravo/data-visualization)  
+- [📊 Data Visualization](https://github.com/Lilian-Bravo/data-visualization](https://github.com/Lilian-Bravo/Repositorio-Data-Visualization)  
 - [🐍 Python & SQL Data Analysis](https://github.com/Lilian-Bravo/python-sql-data-analysis)  
 - [🔗 Projetos BI](https://github.com/Lilian-Bravo/projetos-bi)  
 - [🎓 Treinamentos BI](https://github.com/Lilian-Bravo/treinamentos-bi)  
