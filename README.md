@@ -21,7 +21,7 @@
 - [📊 Data Visualization](https://github.com/Lilian-Bravo/Repositorio-Data-Visualization)
 - [🐍 Python & SQL Data Analysis](https://github.com/Lilian-Bravo/Reposit-rio-Python-SQL-para-Dados)
 - [🔗 Projetos BI](https://github.com/Lilian-Bravo/Repositorio-Projetos-de-BI) 
-- [🎓 Treinamentos BI](https://github.com/Lilian-Bravo/treinamentos-bi)  
+- [🎓 Treinamentos BI](https://github.com/Lilian-Bravo/Repositorio-Treinamentos-Capacita-es)
 
 ---
 
